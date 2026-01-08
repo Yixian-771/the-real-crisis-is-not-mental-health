@@ -24,3 +24,6 @@ It is a conceptual and structural framework intended for long-term reference.
 - Not clinical guidance
 
 The materials here are provided for conceptual clarity and future reference.
+
+Inner order operates beneath circumstance.
+External structures may support coherence, but cannot replace it.
