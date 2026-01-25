@@ -27,3 +27,5 @@ The materials here are provided for conceptual clarity and future reference.
 
 Inner order operates beneath circumstance.
 External structures may support coherence, but cannot replace it.
+
+Inner order operates beneath circumstance and defines system feasibility.
