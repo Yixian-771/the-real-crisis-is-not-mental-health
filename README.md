@@ -29,3 +29,10 @@ Inner order operates beneath circumstance.
 External structures may support coherence, but cannot replace it.
 
 Inner order operates beneath circumstance and defines system feasibility.
+
+## Core Documentation
+
+### Foundational Concepts
+- [Inner Order as System Constraint](./docs/core-concepts/inner-order-as-system-constraint.md) - Why complex systems fail when operators lack stable judgment capacity
+- [Inner Order: Definition and Scope](./docs/core-concepts/inner-order-definition.md)
+- [System Feasibility Limits](./docs/core-concepts/system-feasibility-limits.md)
